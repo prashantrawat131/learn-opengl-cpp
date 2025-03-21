@@ -2,5 +2,6 @@
     "files.associations": {
         "*.ejs": "html",
         "glad.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/home/prashant/Projects/ComputerGraphics/cpp_modeller/include/glm"
 }
